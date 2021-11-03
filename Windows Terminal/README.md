@@ -18,9 +18,9 @@
    ``` json
    "defaults": {
                // Put settings here that you want to apply to all profiles.
-               "fontFace": "Cascadia Code PL",
+               "fontFace": "JetBrains Mono",
                "colorScheme": "Vbcpascal" // Default: "Campbell"
            },
    ```
-
+   
    
