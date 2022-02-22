@@ -2,7 +2,7 @@
 
 **These configuration files are based on PowerShell 7.1 and Windows Terminal**
 
-
+![](../assets/powershell.png)
 
 ## Install PowerShell Core
 
